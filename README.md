@@ -1,1 +1,15 @@
-A resume parser that can fetch a user's name, email, skills, and work experience.
+## Resume-Parser
+
+A resume parser using NLP and Regex.
+
+Can extract the following information from a PDF file:
+  - name
+  - email
+  - phone number
+  - skills
+  - education
+  - work experience
+  
+  ## Usage
+  
+  
